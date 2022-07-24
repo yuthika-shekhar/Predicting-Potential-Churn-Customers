@@ -1,1 +1,1 @@
-## Predicting-the-potential-churn-cutomers
+## Predicting-Potential-Churn-Customers
